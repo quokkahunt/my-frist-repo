@@ -1,0 +1,41 @@
+.head{
+    text-align: center;
+}
+.blog-title{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    font-weight: 900;
+}
+.blog{
+    background-color: rgb(244, 230, 104);
+    border: 5px solid black;
+    border-radius: 15px;
+    width: 50%;
+    height: 300px;
+    margin: 10px auto;
+    padding: 5px 10px;
+}
+.blog p{
+    color: navy;
+    text-align: justify;
+}
+.saint p{
+    color: blue;
+    text-align: justify;
+}
+.saint{
+    background-color: burlywood;
+    border: 5px solid black;
+    border-radius: 15px;
+    width: 50%;
+    height: 220px;
+    padding: 5px 10px;
+    margin: 10px auto;
+}
+.author-name{
+    color: red;
+}
+small{
+    display: block;
+}
